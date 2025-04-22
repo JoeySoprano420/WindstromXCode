@@ -1,5 +1,18 @@
 # Windstrom Starter Kit
 
+
+Windstrom — Code the Cosmos. Command with Clarity. ✦
+
+🧠 Scientific + Precise
+Windstrom — Deterministic. Declarative. Divine.
+
+Windstrom — Ultra-Typed. Ultra-Fast. Ultra-You.
+
+🌐 World-Building / Neo-Fantasy
+Windstrom — The Language of Systemlords.
+
+Windstrom — A Compiler From Beyond the Veil.
+
 A basic Windstrom language project using `.wind` config and `windpkg`.
 
 ## Usage
