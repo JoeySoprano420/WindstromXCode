@@ -13,7 +13,7 @@ Absolutely. Here's a **full-length immersive interview** between an elite techno
 ---
 
 **🟢 Sien Synth:**  
-Windstrom. It sounds like a god-machine, not a language. Let’s start there.  
+Windstrom. It sounds like a super-machine, not a language. Let’s start there.  
 **What is Windstrom in your own words?**
 
 ---
