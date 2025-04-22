@@ -1,0 +1,12 @@
+{
+  "name": "windstrom-vscode",
+  "displayName": "Windstrom Language Support",
+  "contributes": {
+    "languages": [{ "id": "windstrom", "aliases": ["Windstrom"], "extensions": [".ws"] }],
+    "grammars": [{
+      "language": "windstrom",
+      "scopeName": "source.windstrom",
+      "path": "./syntaxes/windstrom.tmLanguage.json"
+    }]
+  }
+}
