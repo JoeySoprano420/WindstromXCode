@@ -1,0 +1,16 @@
+SYS_CONFIG {
+    ENABLE_LOGGING = true;
+    THREAD_COUNT = 8;
+}
+
+CLASS : NeuralNet {
+    INIT : Layer {
+        LAYER_SIZE = 128;
+        ACTIVATION = "ReLU";
+    }
+
+    FUNCTION : forward(input) {
+        result = input * WEIGHTS;
+        RETURN result;
+    }
+}
