@@ -1,0 +1,33 @@
+
+---
+
+### **D. `.nojekyll` & `CNAME`**
+
+- `.nojekyll` = disables GitHub Pages’ Jekyll processor
+- `CNAME` = contains:  
+
+windstromlang.org
+
+yaml
+Copy
+Edit
+
+
+---
+
+### **E. GitHub Pages Activation**
+1. Go to your GitHub repo: `windstromlang-org`
+2. Settings → Pages
+3. Set source to `main` branch root
+4. Your site is live at: `https://windstromlang.org`
+
+---
+
+## **2. `windstrom new` — Project Template Generator**
+
+### **A. Template Directory**
+
+Create `templates/default_project/`:
+
+templates/default_project/ ├── .wind ├── windpkg.json ├── main.ws ├── Makefile
+
