@@ -1,0 +1,8 @@
+
+**Sample `.wind`**:
+```ini
+[project]
+name = myproject
+version = 0.1.0
+entry = main.ws
+output = myproject
