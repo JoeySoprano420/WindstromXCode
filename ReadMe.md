@@ -264,4 +264,13 @@ Project Structure: windstrom/
 
 
 
+Launch in VSCode
+Install the Dev Containers extension and click:
+
+markdown
+Copy
+Edit
+> Reopen in Container
+
+
 
