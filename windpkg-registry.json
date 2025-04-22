@@ -1,0 +1,8 @@
+{
+  "matrixcore": {
+    "0.2.3": "https://github.com/windstrom-lib/matrixcore/archive/refs/tags/v0.2.3.zip"
+  },
+  "neuralkit": {
+    "0.1.0": "https://github.com/windstrom-lib/neuralkit/archive/refs/tags/v0.1.0.zip"
+  }
+}
