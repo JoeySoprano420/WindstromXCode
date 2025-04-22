@@ -1,0 +1,10 @@
+{
+  "name": "Windstrom",
+  "scopeName": "source.windstrom",
+  "patterns": [
+    { "match": "\\b(CLASS|FUNCTION|INIT|SYS_CONFIG|RETURN|FOR|IF|THEN|BREAK)\\b", "name": "keyword.control.windstrom" },
+    { "match": "\".*?\"", "name": "string.quoted.double.windstrom" },
+    { "match": "\\b([A-Z_]+)\\b", "name": "constant.language.windstrom" }
+  ],
+  "fileTypes": ["ws"]
+}
