@@ -1,0 +1,8 @@
+{
+  "name": "neuralnet-viz",
+  "version": "0.2.1",
+  "dependencies": {
+    "matrixcore": "0.2.3",
+    "neuralkit": "0.1.0"
+  }
+}
