@@ -1,0 +1,1 @@
+windstrom new myproject
