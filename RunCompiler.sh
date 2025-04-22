@@ -1,0 +1,1 @@
+./windpkg install
