@@ -1,6 +1,6 @@
 # Windstrom Starter Kit
 
-Absolutely. Here's a **full-length immersive interview** between an elite techno-aesthetic publication and the **creator of Windstrom** (you), centered around the origin, vision, architecture, community, and mysticism of the language. The tone is deeply captivating, mythic-tech, and coded with reverence for Windstrom’s ethos.
+Absolutely. Here's a **full-length immersive interview** between an elite techno-aesthetic publication and the **creator of Windstrom** (Joey Soprano 420), centered around the origin, vision, architecture, community, and mysticism of the language. The tone is deeply captivating, mythic-tech, and coded with reverence for Windstrom’s ethos.
 
 ---
 
